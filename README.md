@@ -1,12 +1,16 @@
 # Validation Form
+- [ ]  The ContactForm React component lets users manage contacts.
+- [ ]  It handles adding, editing, and deleting contacts with name, email, password, and phone number.
+- [ ]  It validates email and phone formats, shows notifications, and displays contacts in a list for editing or deletion.
 
 # Output screen : 
 
 ![Screenshot (59)](https://github.com/iamyogeshmore/Validation-Form/assets/135803626/6b89058c-6118-4c7d-91d8-1c4788a1a75f)
 
 # Delete Button : 
-![Screenshot (56)](https://github.com/iamyogeshmore/Validation-Form/assets/135803626/05b04aa4-9f07-4d46-8ac9-9b0ae39d4d01)
+
 ![Screenshot (55)](https://github.com/iamyogeshmore/Validation-Form/assets/135803626/98279ea2-8890-4671-92b1-88934274ac67)
+![Screenshot (56)](https://github.com/iamyogeshmore/Validation-Form/assets/135803626/05b04aa4-9f07-4d46-8ac9-9b0ae39d4d01)
 
 # Update Button : 
 ![Screenshot (54)](https://github.com/iamyogeshmore/Validation-Form/assets/135803626/938a689e-408c-491d-b81f-fb4e6b6b3acb)
